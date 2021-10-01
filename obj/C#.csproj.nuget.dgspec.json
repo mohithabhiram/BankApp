@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\abhiram\\C#\\C#.csproj": {}
+    "f:\\C#\\Bank_C#\\C#.csproj": {}
   },
   "projects": {
-    "F:\\abhiram\\C#\\C#.csproj": {
+    "f:\\C#\\Bank_C#\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\abhiram\\C#\\C#.csproj",
+        "projectUniqueName": "f:\\C#\\Bank_C#\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "F:\\abhiram\\C#\\C#.csproj",
+        "projectPath": "f:\\C#\\Bank_C#\\C#.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "F:\\abhiram\\C#\\obj\\",
+        "outputPath": "f:\\C#\\Bank_C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

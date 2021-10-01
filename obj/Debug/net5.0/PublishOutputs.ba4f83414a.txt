@@ -1,0 +1,5 @@
+F:\abhiram\C#\bin\Debug\net5.0\publish\C#.exe
+F:\abhiram\C#\bin\Debug\net5.0\publish\C#.dll
+F:\abhiram\C#\bin\Debug\net5.0\publish\C#.deps.json
+F:\abhiram\C#\bin\Debug\net5.0\publish\C#.runtimeconfig.json
+F:\abhiram\C#\bin\Debug\net5.0\publish\C#.pdb
